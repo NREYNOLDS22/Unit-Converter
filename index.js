@@ -1,8 +1,8 @@
-let convertBtn = document.getElementById("convert-btn")
-let inputEl = document.getElementById("input")
-let lengthEl = document.getElementById("length-el")
-let volumeEl = document.getElementById("volume-el")
-let massEl = document.getElementById("mass-el")
+const convertBtn = document.getElementById("convert-btn")
+const inputEl = document.getElementById("input")
+const lengthEl = document.getElementById("length-el")
+const volumeEl = document.getElementById("volume-el")
+const massEl = document.getElementById("mass-el")
 
 const meterToFeet = 3.281
 const literToGallon = 0.264
